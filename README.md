@@ -1,6 +1,6 @@
-dijkstra-rust
+
 Implementación del algoritmo de Dijkstra en Rust para encontrar el camino más corto en un grafo ponderado dirigido, usando una red de ciudades de Guatemala como caso de uso.
-Estructuras de datos utilizadas
+Estructuras de datos utilizadas:
 Estructura
 Uso
 Vec<Vec<(usize, u32)>>
